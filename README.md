@@ -2,18 +2,28 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,50:16213e,100:0f3460&height=220&section=header&text=Djasnive%20RAJAONA&fontSize=38&fontColor=e94560&fontAlignY=35&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=18&descColor=a7c5eb&descAlignY=55" />
 
 <!-- ABOUT -->
+<table><tr><td valign="top" width="50%">
+
 ```typescript
 const djasnive = {
   location: "Madagascar 🇲🇬",
   company: "DNA WebHosting",
   role: "Software Engineer",
   languages: ["Malagasy", "French", "English"],
-  currentFocus: ["AI/ML Applications", "System Architecture", "Full-Stack Development"],
-  funFact: "I write code in more languages than I can speak fluently"
+  currentFocus: [
+    "AI/ML Applications",
+    "System Architecture",
+    "Full-Stack Development"
+  ],
+  funFact: "I write code in more languages"
+    + " than I can speak fluently"
 };
 ```
 
-<!-- SOCIAL BADGES -->
+</td><td valign="top" width="50%">
+
+<br>
+
 <p align="center">
   <a href="https://twitter.com/djasnive">
     <img src="https://img.shields.io/badge/-@djasnive-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -22,6 +32,12 @@ const djasnive = {
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=djascorp&color=e94560&style=flat-square&label=PROFILE+VIEWS" />
+</p>
+
+</td></tr></table>
 
 ---
 
@@ -76,6 +92,8 @@ const djasnive = {
 <p align="center">
 <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/github/stars/djascorp/FitLoop?style=social" />
 </p>
 <p>Minimalist fitness habit tracker. Build consistent workout routines with a clean, intuitive mobile experience.</p>
 </td>
@@ -84,6 +102,8 @@ const djasnive = {
 <p align="center">
 <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/github/stars/djascorp/kash?style=social" />
 </p>
 <p>Personal finance management app. Track expenses, manage budgets, and take control of your financial goals.</p>
 </td>
@@ -94,6 +114,8 @@ const djasnive = {
 <p align="center">
 <img src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/github/stars/djascorp/yourplaylist?style=social" />
 </p>
 <p>Collaborative playlist management web app. Create, share playlists and enjoy audio-only playback of YouTube videos.</p>
 </td>
@@ -102,6 +124,8 @@ const djasnive = {
 <p align="center">
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-AI-FF6F00?style=flat-square&logo=openai&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/github/stars/djascorp/ShortGenAI?style=social" />
 </p>
 <p>Platform for generating short-form videos from long-form content. AI-powered video processing and editing.</p>
 </td>
@@ -112,6 +136,8 @@ const djasnive = {
 <p align="center">
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/github/stars/djascorp/OllamaChatUI?style=social" />
 </p>
 <p>Modern, open-source web chat interface for local LLMs via Ollama. Private, fast, and smooth browser-based experience.</p>
 </td>
@@ -120,6 +146,8 @@ const djasnive = {
 <p align="center">
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/github/stars/djascorp/LearnTransformer?style=social" />
 </p>
 <p>Educational project to understand and implement text encoders and transformer architectures from scratch.</p>
 </td>
@@ -164,11 +192,11 @@ const djasnive = {
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djascorp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a7c5eb" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=djascorp&theme=tokyonight&hide_border=true&area=true&custom_title=Contribution+Activity" />
+</p>
+
 ---
 
 <!-- FOOTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=djascorp&color=e94560&style=flat-square&label=PROFILE+VIEWS" />
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,50:16213e,100:0f3460&height=120&section=footer" />
