@@ -28,8 +28,11 @@ const djasnive = {
   <a href="https://twitter.com/djasnive">
     <img src="https://img.shields.io/badge/-@djasnive-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://github.com/djascorp">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/djasnive-rajaona-956329143/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:djasniveyrajaona@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -152,16 +155,26 @@ const djasnive = {
 <p>Educational project to understand and implement text encoders and transformer architectures from scratch.</p>
 </td>
 </tr>
+<tr>
+<td width="50%">
+<h3 align="center"><a href="https://github.com/djascorp/doc-forge">DocForge</a></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/github/stars/djascorp/doc-forge?style=social" />
+</p>
+<p>AI-powered documentation generator. Create beautiful, searchable docs from your codebase automatically.</p>
+</td>
+<td width="50%">
+</td>
+</tr>
 </table>
 
 ---
 
 <!-- MORE PROJECTS -->
 ### <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2TPUc/giphy.gif" width="30" align="center"/> More Work
-
-<details>
-<summary><b>Show more projects</b></summary>
-<br>
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -175,8 +188,6 @@ const djasnive = {
 | [py-remove-bg](https://github.com/djascorp/py-remove-bg) | Background removal tool | `Python` `OpenCV` |
 | [computer-vision](https://github.com/djascorp/computer-vision) | Computer vision playground | `Python` `CV` |
 | [cam-control-drone](https://github.com/djascorp/cam-control-drone) | Hand-controlled drone simulator | `Python` `MediaPipe` |
-
-</details>
 
 ---
 
